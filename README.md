@@ -4,6 +4,14 @@ An academic IoT-based environmental monitoring system built using an **ESP32** m
 
 The system collects sensor data through the ESP32 and sends it to a **Django backend** via HTTP REST API. The collected data is displayed on a real-time web dashboard. When potentially dangerous conditions are detected, the system automatically activates a buzzer and sends an email alert to the device owner.
 
+
+## 🎥 Project Demo
+
+Watch the project in action:
+
+[▶️ Watch the IoT Environmental Monitoring System Demo on YouTube](https://youtube.com/shorts/OL7aTVvNG1U)
+
+
 ## ✨ Features
 
 - 📡 **Real-Time Data Collection:** Receives sensor readings from ESP32 through an HTTP API.
