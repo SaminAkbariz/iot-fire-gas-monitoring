@@ -3,7 +3,7 @@
 An academic IoT-based environmental monitoring system built using an **ESP32** microcontroller and multiple sensors, including a Flame Sensor, MQ-2 Gas Sensor, and DHT22 Temperature and Humidity Sensor.
 
 The system collects sensor data through the ESP32 and sends it to a **Django backend** via HTTP REST API. The collected data is displayed on a real-time web dashboard. When potentially dangerous conditions are detected, the system automatically activates a buzzer and sends an email alert to the device owner.
-
+![Project Demo](Green%20Red%20Woman%20in%20Nature%20Photo%20Collage.png)
 
 ## 🎥 Project Demo
 
